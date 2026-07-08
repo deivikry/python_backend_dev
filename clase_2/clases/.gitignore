@@ -1,0 +1,17 @@
+# Entornos virtuales de Python
+env/
+.env/
+venv/
+.venv/
+ENV/
+
+# Archivos de caché de Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración del sistema (opcional)
+.DS_Store
+Thumbs.db
+    
